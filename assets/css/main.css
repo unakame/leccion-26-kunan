@@ -7,3 +7,8 @@ body{
   margin-left: 230px;
   margin-right: 230px;
 }
+
+.cursiva{
+  font-style: italic;
+  color: #b5b6b7;
+}
