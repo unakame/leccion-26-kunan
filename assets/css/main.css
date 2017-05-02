@@ -2,3 +2,8 @@
   margin:0;
   font-family: 'Raleway', sans-serif;
 }
+
+body{
+  margin-left: 230px;
+  margin-right: 230px;
+}
